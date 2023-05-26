@@ -181,3 +181,4 @@ baseline.py
 *.pkl
 *.ckpt
 *.pt
+*.png
